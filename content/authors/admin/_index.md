@@ -9,10 +9,10 @@ organizations:
   - name: Universität Stuttgart
 education:
   courses:
-    - course: B.A. Sozialwissenschaften
-      institution: Universität Stuttgart
-      year: ""
     - course: M.A. Empirische Politik- und Sozialforschung
+      institution: Universität Stuttgart
+      year: 2019
+    - course: B.A. Sozialwissenschaften
       institution: Universität Stuttgart
       year: ""
 superuser: true
