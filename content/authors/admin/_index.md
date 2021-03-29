@@ -2,9 +2,8 @@
 role: ""
 bio: Kurzbiographie
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Interesse1
+  - Interesse2
 social: []
 organizations:
   - name: Universität Stuttgart
