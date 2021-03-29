@@ -8,7 +8,13 @@ social: []
 organizations:
   - name: Universität Stuttgart
 education:
-  courses: []
+  courses:
+    - course: B.A. Sozialwissenschaften
+      institution: Universität Stuttgart
+      year: ""
+    - course: M.A. Empirische Politik- und Sozialforschung
+      institution: Universität Stuttgart
+      year: ""
 superuser: true
 highlight_name: false
 title: Simon Stocker
